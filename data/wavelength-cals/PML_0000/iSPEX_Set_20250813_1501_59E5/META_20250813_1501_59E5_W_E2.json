@@ -1,0 +1,20 @@
+{
+  "azimuth" : 7.5302371978759766,
+  "max_exposure_duration" : 1,
+  "min_iso" : 34,
+  "elevation" : 158.13545897148867,
+  "longitude" : -4.1478199679550904,
+  "exposure_duration" : 0.099553000000000003,
+  "lens_position" : 1,
+  "exposure_target_bias" : 0,
+  "latitude" : 50.365896939386388,
+  "device_model" : "iPhone14,4",
+  "exposure_mode" : 3,
+  "time_utc" : 1755093766.770232,
+  "iso" : 100,
+  "exposure_target_offset" : -3.0703892707824707,
+  "min_exposure_duration" : 1.4e-05,
+  "max_iso" : 7616,
+  "exposure_time" : 0.10000000000000001,
+  "exposure_index" : 2
+}
